@@ -9,4 +9,4 @@ Croijmans, I., Speed, L. J., Arshamian, A., & Majid, A. (2019). Measuring Multis
 - You can find previous work on the language of wine and coffee experts, as well as an explanation of the Wine Knowledge Test here: 
 Croijmans, I., & Majid, A. (2016). Not all flavor expertise is equal: The language of wine and coffee experts. PLoS One, 11(6), e0155845. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155845
 
-Should you have any other questions, please contact Ilja Croijmans, i.m.croijmans@uu.nl
+Should you have any other questions, please contact Ilja Croijmans, i.m.croijmans@uu.nl or tweet: @icroy https://twitter.com/icroy
