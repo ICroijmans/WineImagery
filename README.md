@@ -7,7 +7,7 @@ It contains:
 - SPSS datafiles from both experiments, including SPSS syntax, belonging to the manuscript "Expertise shapes multimodal imagery for wine": 
 https://github.com/ICroijmans/WineImagery/blob/master/MIQE_ComparisonArticle_dataSyntax_20190809.zip
 - You can find the validation paper for the VWIQ including the questionnaire here: 
-Croijmans, I., Speed, L. J., Arshamian, A., & Majid, A. (2019). Measuring Multisensory Imagery of Wine: the Vividness of Wine Imagery Questionnaire. Multisensory Research, 1(aop), 1-17. https://brill.com/abstract/journals/msr/aop/article-10.1163-22134808-20191340.xml 
+Croijmans, I., Speed, L. J., Arshamian, A., & Majid, A. (2019). Measuring Multisensory Imagery of Wine: the Vividness of Wine Imagery Questionnaire. Multisensory Research, 1(aop), 1-17. https://dspace.library.uu.nl/bitstream/handle/1874/386555/VividnessOfWineQuestionnaire_Manuscript_20180723.pdf?sequence=1 
 - Other questionnaires used in the experiment (including: Wine Knowledge Test (WKT); Subjective wine expertise questionnaire (SWEQ); VOIQ; VVIQ; VWIQ) are available in their original language in this document:  
 *link*
 
