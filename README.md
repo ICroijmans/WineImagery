@@ -1,7 +1,10 @@
 # WineImagery
 
-This repository so far contains files associated with the wine imagery project. Authors (listed alphabetically) on this project are: 
+This repository contains files associated with the wine imagery project. Authors (listed alphabetically) on this project are: 
 Artin Arshamian, Asifa Majid, Ilja Croijmans, Laura Speed
+
+The main article that belongs to this repository is: 
+Croijmans, Speed, Arshamian & Majid (accepted). Expertise shapes multimodal imagery for wine. Cognitive Science (AOP)
 
 It contains: 
 - SPSS datafiles from both experiments, including SPSS syntax, belonging to the manuscript "Expertise shapes multimodal imagery for wine": 
