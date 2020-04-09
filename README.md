@@ -15,7 +15,7 @@ Croijmans, I., Speed, L. J., Arshamian, A., & Majid, A. (2019). Measuring Multis
   Vividness of visual imagery questionnaire (VVIQ); 
   Vividness of wine imagery questionnaire (VWIQ); 
   are available in Dutch and English in this document:  
-
+https://github.com/ICroijmans/WineImagery/blob/master/MIQE_Comparison_SuppMaterials_20200409.pdf
 
 - A copy of the Achems 2019 poster (PDF, 4MB) on this project: https://github.com/ICroijmans/WineImagery/blob/master/Achems%20poster%2020190416%20low%20res.pdf
 - A copy of the Achems 2019 Abstract on this project: https://github.com/ICroijmans/WineImagery/blob/master/AChems2019%20abstract%20Croijmans%20et%20al.pdf
