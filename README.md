@@ -8,11 +8,13 @@ It contains:
 https://github.com/ICroijmans/WineImagery/blob/master/MIQE_ComparisonArticle_dataSyntax_20190809.zip
 - You can find the validation paper for the VWIQ including the questionnaire here: 
 Croijmans, I., Speed, L. J., Arshamian, A., & Majid, A. (2019). Measuring Multisensory Imagery of Wine: the Vividness of Wine Imagery Questionnaire. Multisensory research, 32(3), 179-195. https://dspace.library.uu.nl/bitstream/handle/1874/386555/VividnessOfWineQuestionnaire_Manuscript_20180723.pdf?sequence=1 
-- Other questionnaires used in the experiment (including: Wine Knowledge Test (WKT); Subjective wine expertise questionnaire (SWEQ); VOIQ; VVIQ; VWIQ) are available in their original language in this document:  
-*link*
-
-
-
+- Other questionnaires used in the experiment: 
+  Wine knowledge test (WKT)
+  Subjective wine expertise questionnaire (SWEQ); 
+  Vividness of olfactory imagery questionnaire (VOIQ); 
+  Vividness of visual imagery questionnaire (VVIQ); 
+  Vividness of wine imagery questionnaire (VWIQ) 
+  are available in their original language in this document:  
 
 
 - A copy of the Achems 2019 poster (PDF, 4MB) on this project: https://github.com/ICroijmans/WineImagery/blob/master/Achems%20poster%2020190416%20low%20res.pdf
